@@ -1,5 +1,5 @@
-# Indoor localization CRF
+# Indoor localization dataset
 
-Code to accompany the 2018 IPIN paper "Multi-Modal Probabilistic Indoor Localization on a Smartphone"
+Dataset to accompany the 2018 IPIN paper "Multi-Modal Probabilistic Indoor Localization on a Smartphone"
 
 **coming soon**
